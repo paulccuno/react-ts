@@ -1,13 +1,10 @@
-import './App.css'
-
 function App() {
-
   return (
-    <div className="App">
-      Hello world!
-        
-    </div>
-  )
+    <>
+      <h1>React</h1>
+      <hr />
+    </>
+  );
 }
 
-export default App
+export default App;
